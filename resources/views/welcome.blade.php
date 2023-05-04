@@ -1,3 +1,3 @@
 <x-app-layout>
-    <livewire:teacher-selector />
+    <livewire:teacher-schedule />
 </x-app-layout>

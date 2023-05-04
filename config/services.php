@@ -38,6 +38,7 @@ return [
         'testing_school_id' => env('TESTING_SCHOOL_ID', 'A1930499544'),
         'employees_endpoint' => env('EMPLOYEES_ENDPOINT', '/employees'),
         'classes_endpoint' => env('CLASSES_ENDPOINT', '/classes'),
+        'lessons_endpoint' => env('LESSONS_ENDPOINT', '/lessons'),
     ]
 
 ];
