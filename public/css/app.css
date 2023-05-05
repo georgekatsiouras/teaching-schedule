@@ -4,6 +4,27 @@
     margin-bottom: 15px;
 }
 
+select {
+    color: #212529;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 10px;
+}
+
+table, td, th {
+    border: 1px solid #ced4da;
+}
+
+table{
+    border-collapse: collapse;
+    border-radius: 0.25rem;
+}
+
+td, th{
+    padding: 10px;
+}
+
 .wrapper{
     display: flex;
     flex-direction: column;
